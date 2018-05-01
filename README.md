@@ -82,15 +82,9 @@
   * [history of american policing](http://originalpeople.org/slave-patrols-police/)
 
 ## goods
-  * [vapor95](https://vapor95.com/)
   * [publicspace.xyz](https://www.publicspace.xyz/)
-  * [very cool shirtz](http://www.verycoolshirtz.com/products)
-  * [toastyco](http://toastyco.bigcartel.com/)
-  * [palm treat](https://palmtreat.design/)
   * [wild rose](https://www.wildroseherbs.com/)
   * [ethical wares](https://www.ethicalwares.com/)
-  * [brandless](https://brandless.com/)
-  * [dsa swag](https://dsausa.nationbuilder.com/swagshop)
   * [lavasaga](https://lavasagna.threadless.com/designs)
   * [govdeals](https://www.govdeals.com)
   * [project just](https://projectjust.com/)
@@ -102,6 +96,7 @@
   * [p f candle co](https://pfcandleco.com/)
   * [gamiss](https://www.gamiss.com/cheap/men-89/)
   * [carryology](http://www.carryology.com/utility/guide-to-carrying-keys/)
+  * [gustin](https://www.weargustin.com/store)
 
 ## games
   * [increpare](http://www.increpare.com/)
