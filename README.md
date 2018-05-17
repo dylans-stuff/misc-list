@@ -69,6 +69,8 @@
   * [disobedient electronics](http://www.disobedientelectronics.com/resources/Hertz-Disobedient-Electronics-Protest-201801081332c.pdf)
   * [contingent no more: an academic manifesto](https://thebaffler.com/the-poverty-of-theory/contingent-no-more)
   * [report](https://populardemocracy.org/news-and-publications/report-examining-12-city-county-budgets-reveals-heavy-spending-policing) by center for popular democracy examining policing in 12 cities (referenced by a. vitale)
+  * [reel injun](https://en.wikipedia.org/wiki/Reel_Injun)
+  * [incident at ogalala](https://en.wikipedia.org/wiki/Incident_at_Oglala)
   
 *to share with people*
   * [the bad news on good girls](https://mobile.nytimes.com/2017/11/24/opinion/sunday/girls-parents-boys-gender.html)
