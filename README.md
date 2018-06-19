@@ -121,6 +121,7 @@
   * [zen pencils](http://zenpencils.com/)
   * [deny designs](https://www.denydesigns.com/collections/tapestries)
   * [internet archaeology](http://internetarchaeology.org/)
+  * [corel gallery 1994](https://twitter.com/Clipart1994bot)
   
 ## podcasts
 
