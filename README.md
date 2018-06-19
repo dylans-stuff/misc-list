@@ -83,6 +83,7 @@
   * comparison of [philly eagles riots](https://www.youtube.com/watch?v=U_3DyPEYO54&feature=youtu.be) and [j20 riots](https://www.youtube.com/watch?v=OHoNGQeYFMI&feature=youtu.be)
   * [history of american policing](http://originalpeople.org/slave-patrols-police/)
   * [dirty secret: why is there still a housework gender gap?](https://www.theguardian.com/inequality/2018/feb/17/dirty-secret-why-housework-gender-gap)
+  * [army of altruists](https://theanarchistlibrary.org/library/david-graeber-army-of-altruists)
 
 ## goods
   * [publicspace.xyz](https://www.publicspace.xyz/)
