@@ -84,6 +84,7 @@
   * [history of american policing](http://originalpeople.org/slave-patrols-police/)
   * [dirty secret: why is there still a housework gender gap?](https://www.theguardian.com/inequality/2018/feb/17/dirty-secret-why-housework-gender-gap)
   * [army of altruists](https://theanarchistlibrary.org/library/david-graeber-army-of-altruists)
+  * [manna](http://marshallbrain.com/manna1.htm)
 
 ## goods
   * [publicspace.xyz](https://www.publicspace.xyz/)
