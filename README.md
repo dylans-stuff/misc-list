@@ -104,6 +104,7 @@
   * [gustin](https://www.weargustin.com/store)
   * [native shoes](https://www.nativeshoes.com/mens/12m)
   * [tenikle (a flexible tripod)](https://tenikle.com/)
+  * [dazi neckties](https://www.daziusa.com/collections/neckties)
 
 ## games
   * [increpare](http://www.increpare.com/)
