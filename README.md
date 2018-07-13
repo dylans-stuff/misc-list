@@ -105,6 +105,7 @@
   * [native shoes](https://www.nativeshoes.com/mens/12m)
   * [tenikle (a flexible tripod)](https://tenikle.com/)
   * [dazi neckties](https://www.daziusa.com/collections/neckties)
+  * [rare form upcycled wallets](https://www.rareform.com/collections/anderson)
 
 ## games
   * [increpare](http://www.increpare.com/)
