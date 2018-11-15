@@ -89,7 +89,6 @@
   * [manna](http://marshallbrain.com/manna1.htm)
 
 ## goods
-  * [publicspace.xyz](https://www.publicspace.xyz/)
   * [wild rose](https://www.wildroseherbs.com/)
   * [ethical wares](https://www.ethicalwares.com/)
   * [lavasaga](https://lavasagna.threadless.com/designs)
@@ -109,6 +108,7 @@
   * [dazi neckties](https://www.daziusa.com/collections/neckties)
   * [rare form upcycled wallets](https://www.rareform.com/collections/anderson)
   * [inkkas shoes](https://inkkas.com/pages/about)
+  * [monoprice (cheap generic electonics)](https://www.monoprice.com/search/index?keyword=cables)
 
 ## games
   * [increpare](http://www.increpare.com/)
