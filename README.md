@@ -75,6 +75,7 @@
   * [incident at ogalala](https://en.wikipedia.org/wiki/Incident_at_Oglala)
   
 *to share with people*
+  * [How Millenials Became The Burnout Generation](https://www.buzzfeednews.com/article/annehelenpetersen/millennials-burnout-generation-debt-work?fbclid=IwAR3KJ7_yxbjJO7RhRStjtQ1BDv_eUGMjNpqtj3P6tRDIDsRIYvsDd70fGB8)
   * [Don’t Work 80 Hours a Week for Elon Musk, or Anyone](https://www.vice.com/en_us/article/ev3b3p/dont-work-80-hours-a-week-for-elon-musk-or-anyone?utm_source=vicefbus&fbclid=IwAR1hPsfg9qSJDwrbIPC3nxuj-UAMwytVhPaAZ739EoWFzwYHynjG_mDQrTM)
   * [‘Master/Slave’ Terminology Was Removed from Python Programming Language](https://motherboard.vice.com/en_us/article/8x7akv/masterslave-terminology-was-removed-from-python-programming-language?utm_source=mbfb&fbclid=IwAR1Pk5EnM4N9soxSKwbqprs2QGbWMMk0cr9d_7yC5u6-15X3w02w1fjulb0)
   * [the bad news on good girls](https://mobile.nytimes.com/2017/11/24/opinion/sunday/girls-parents-boys-gender.html)
