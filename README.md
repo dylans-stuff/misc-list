@@ -76,6 +76,7 @@
   * [rare form upcycled wallets](https://www.rareform.com/collections/anderson)
   * [inkkas shoes](https://inkkas.com/pages/about)
   * [monoprice (cheap generic electonics)](https://www.monoprice.com/search/index?keyword=cables)
+  * [wirecutter](https://thewirecutter.com/)
 
 ## games
   * [increpare](http://www.increpare.com/)
