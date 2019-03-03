@@ -77,6 +77,7 @@
   * [inkkas shoes](https://inkkas.com/pages/about)
   * [monoprice (cheap generic electonics)](https://www.monoprice.com/search/index?keyword=cables)
   * [wirecutter](https://thewirecutter.com/)
+  * [cotopaxi](https://www.cotopaxi.com/)
 
 ## games
   * [increpare](http://www.increpare.com/)
