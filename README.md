@@ -59,6 +59,7 @@
   * [radio garden](http://radio.garden/)
 
 ## goods
+  * [biblio](https://www.biblio.com/) (books)
   * [vistaprint](https://www.vistaprint.com/) (for printing stickers)
   * [wild rose](https://www.wildroseherbs.com/)
   * [ethical wares](https://www.ethicalwares.com/)
