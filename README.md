@@ -59,6 +59,7 @@
   * [radio garden](http://radio.garden/)
 
 ## goods
+  * [merrell gridway shoes](https://www.merrell.com/US/en/blog?url=%2F/merrell_us/gridway/)
   * [biblio](https://www.biblio.com/) (books)
   * [vistaprint](https://www.vistaprint.com/) (for printing stickers)
   * [wild rose](https://www.wildroseherbs.com/)
