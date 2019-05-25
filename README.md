@@ -78,6 +78,7 @@
   * [monoprice (cheap generic electonics)](https://www.monoprice.com/search/index?keyword=cables)
   * [wirecutter](https://thewirecutter.com/)
   * [cotopaxi](https://www.cotopaxi.com/)
+  * [zero waste cartel](https://zerowastecartel.com/)
 
 ## games
   * [increpare](http://www.increpare.com/)
