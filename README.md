@@ -57,6 +57,7 @@
   * [kanopy](https://rpi.kanopystreaming.com/frontpage)
   * [plex media server](https://www.plex.tv/)
   * [radio garden](http://radio.garden/)
+  * [aphex twin streaming](https://aphextwin.warp.net/)
 
 ## goods
   * [neem chewing sticks](https://neemtreefarms.com/cart/)
