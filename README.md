@@ -21,6 +21,7 @@
   * [johnnyseeds](http://www.johnnyseeds.com/)
   * [gaeacraft workbook](http://gaiacraft.com/gaiacraft-workbook/)
   * [USDA zone map](http://planthardiness.ars.usda.gov/phzmweb/interactivemap.aspx)
+  * [tactical urbanism](http://tacticalurbanismguide.com/)
 
 ## homebrewing
   * [jack keller](http://winemaking.jackkeller.net/)
