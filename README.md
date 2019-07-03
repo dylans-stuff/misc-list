@@ -54,7 +54,7 @@
   * [as3sfxr](http://www.superflashbros.net/as3sfxr/)
   * [slider.kz](http://slider.kz/)
   * [couchtuner](https://www.couchtuner.click/)
-  * [kanopy](https://rpi.kanopystreaming.com/frontpage)
+  * [kanopy streaming from RPI library](https://rpi.kanopystreaming.com/frontpage)
   * [plex media server](https://www.plex.tv/)
   * [radio garden](http://radio.garden/)
   * [aphex twin streaming](https://aphextwin.warp.net/)
