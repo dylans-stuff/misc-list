@@ -59,6 +59,7 @@
   * [plex media server](https://www.plex.tv/)
   * [radio garden](http://radio.garden/)
   * [aphex twin streaming](https://aphextwin.warp.net/)
+  * [pure data](https://puredata.info/)
 
 ## goods
   * [neem chewing sticks](https://neemtreefarms.com/cart/)
