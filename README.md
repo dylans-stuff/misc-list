@@ -52,7 +52,6 @@
   * [mixcloud](https://www.mixcloud.com/)
   * [cmd.fm](http://cmd.to/fm)
   * [as3sfxr](http://www.superflashbros.net/as3sfxr/)
-  * [slider.kz](http://slider.kz/)
   * [couchtuner](https://www.couchtuner.click/)
   * [kanopy streaming from RPI library](https://rpi.kanopystreaming.com/frontpage)
   * [plex media server](https://www.plex.tv/)
