@@ -82,6 +82,7 @@
   * [cotopaxi](https://www.cotopaxi.com/)
   * [zero waste cartel](https://zerowastecartel.com/)
   * [field & forest mushroom spawn](https://www.fieldforest.net/Oyster/products/71/)
+  * [goodfair](https://goodfair.com)
 
 ## games
   * [increpare](http://www.increpare.com/)
