@@ -22,6 +22,7 @@
   * [gaeacraft workbook](http://gaiacraft.com/gaiacraft-workbook/)
   * [USDA zone map](http://planthardiness.ars.usda.gov/phzmweb/interactivemap.aspx)
   * [tactical urbanism](http://tacticalurbanismguide.com/)
+  * [co2 list](http://www.co2list.org/files/carbon.htm#RANGE!A175)
 
 ## homebrewing
   * [jack keller](http://winemaking.jackkeller.net/)
