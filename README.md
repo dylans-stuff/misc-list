@@ -85,6 +85,7 @@
   * [field & forest mushroom spawn](https://www.fieldforest.net/Oyster/products/71/)
   * [goodfair](https://goodfair.com)
   * [brush with bamboo](https://www.brushwithbamboo.com/shop/bamboo-toothbrush-adult/)
+  * [earth & friends reusable lids](https://earthandfriends.co/products/reusablelids)
 
 ## games
   * [increpare](http://www.increpare.com/)
