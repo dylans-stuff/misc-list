@@ -24,6 +24,7 @@
   * [tactical urbanism](http://tacticalurbanismguide.com/)
   * [co2 list](http://www.co2list.org/files/carbon.htm#RANGE!A175)
   * [terra0](https://www.terra0.org/)
+  * [the global calculator](http://tool.globalcalculator.org/globcalc.html?levers=22rfoe2e13be1111c2c2c1n31hfjdcef222hp233f211111fn2211111111/dashboard/en)
 
 ## homebrewing
   * [jack keller](http://winemaking.jackkeller.net/)
