@@ -33,6 +33,7 @@
 ## homebrewing
   * [jack keller](http://winemaking.jackkeller.net/)
   * [toast ale](http://www.toastale.com/toast-ale-recipe/)
+  * [absinthe recipe](https://moonshiners.club/absinthe-moonshine-recipe/)
  
 ## engineering
 
