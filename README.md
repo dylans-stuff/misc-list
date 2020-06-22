@@ -125,3 +125,4 @@
   * [tech solidarity](https://techsolidarity.org/)
   * [planet generator](https://zarkonnen.itch.io/planet-generator)
   * [native land](https://native-land.ca/)
+  * [albany's native etymologies](https://www.etymologynerd.com/uploads/1/5/8/8/15888322/albany.png)
