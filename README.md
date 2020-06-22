@@ -1,7 +1,8 @@
 ⚛️ 🍄 A miscellaneous list of things
 
 ## ｃｏｎｔｅｎｔｓ
-
+  - [local](#local)
+  - [cleaning](#cleaning)
   - [permaculture](#permaculture)
   - [homebrewing](#homebrewing)
   - [engineering](#engineering)
@@ -16,6 +17,9 @@
 ## local
   * [burch bottle co](https://www.burchbottle.com/products/Homebrewing_2_14_industry.htm)
   * [albany's native etymologies](https://www.etymologynerd.com/uploads/1/5/8/8/15888322/albany.png)
+
+## cleaning
+  * [carpet shampoo cleaning](https://www.youtube.com/watch?v=FPOyAY6aNwY&feature=youtu.be)
 
 ## permaculture
   * [companion planting guide](https://media.smilinggardener.com/files/images/articles/vegetables/companion-planting-chart.pdf)
