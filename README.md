@@ -12,6 +12,10 @@
   - [art](#art)
   - [podcasts](#podcasts)
   - [other](#other)
+  
+## local
+  * [burch bottle co](https://www.burchbottle.com/products/Homebrewing_2_14_industry.htm)
+  * [albany's native etymologies](https://www.etymologynerd.com/uploads/1/5/8/8/15888322/albany.png)
 
 ## permaculture
   * [companion planting guide](https://media.smilinggardener.com/files/images/articles/vegetables/companion-planting-chart.pdf)
@@ -125,4 +129,3 @@
   * [tech solidarity](https://techsolidarity.org/)
   * [planet generator](https://zarkonnen.itch.io/planet-generator)
   * [native land](https://native-land.ca/)
-  * [albany's native etymologies](https://www.etymologynerd.com/uploads/1/5/8/8/15888322/albany.png)
