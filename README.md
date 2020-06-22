@@ -37,12 +37,6 @@
  
 ## engineering
 
-*research*
-
-  * [nemo5](https://nanohub.org/groups/nemo5distribution)
-  
-*other stuff*
-
   * [zazu](http://zazuapp.org/)
   * [lastpass](https://lastpass.com/features_joinpremium4.php?a=1)
   * [rbutr](http://www.rbutr.com/)
