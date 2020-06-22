@@ -62,6 +62,8 @@
   * [aphex twin streaming](https://aphextwin.warp.net/)
   * [pure data](https://puredata.info/)
   * [ableton synth tutorial](https://learningsynths.ableton.com/)
+  * [pixilart](https://www.pixilart.com/)
+  * [ezgif](https://ezgif.com/split)
 
 ## goods
   * [neem chewing sticks](https://neemtreefarms.com/cart/)
