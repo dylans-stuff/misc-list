@@ -67,6 +67,7 @@
   * [ableton synth tutorial](https://learningsynths.ableton.com/)
   * [pixilart](https://www.pixilart.com/)
   * [ezgif](https://ezgif.com/split)
+  * [poolside.fm](https://poolside.fm/)
 
 ## goods
   * [neem chewing sticks](https://neemtreefarms.com/cart/)
