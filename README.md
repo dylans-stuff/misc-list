@@ -68,6 +68,7 @@
   * [pixilart](https://www.pixilart.com/)
   * [ezgif](https://ezgif.com/split)
   * [poolside.fm](https://poolside.fm/)
+  * [the 110 techniques for public speaking](https://www.ted.com/talks/david_jp_phillips_the_110_techniques_of_communication_and_public_speaking)
 
 ## goods
   * [neem chewing sticks](https://neemtreefarms.com/cart/)
