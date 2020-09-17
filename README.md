@@ -4,7 +4,7 @@
   - [local](#local)
   - [cleaning](#cleaning)
   - [permaculture](#permaculture)
-  - [homebrewing](#homebrewing)
+  - [homebrewing](#recipes-homebrewing)
   - [engineering](#engineering)
   - [media](#media)
   - [readings](#readings)
@@ -34,10 +34,11 @@
   * [terra0](https://www.terra0.org/)
   * [the global calculator](http://tool.globalcalculator.org/globcalc.html?levers=22rfoe2e13be1111c2c2c1n31hfjdcef222hp233f211111fn2211111111/dashboard/en)
 
-## homebrewing
+## recipes-homebrewing
   * [jack keller](http://winemaking.jackkeller.net/)
   * [toast ale](http://www.toastale.com/toast-ale-recipe/)
   * [absinthe recipe](https://moonshiners.club/absinthe-moonshine-recipe/)
+  * [cold onion chutney](https://greatcurryrecipes.net/2012/06/10/how-to-make-that-red-onion-chutney-that-restaurants-serve-with-papadams/)
  
 ## engineering
 
@@ -70,6 +71,7 @@
   * [poolside.fm](https://poolside.fm/)
   * [the 110 techniques for public speaking](https://www.ted.com/talks/david_jp_phillips_the_110_techniques_of_communication_and_public_speaking)
   * [JustWatch - look up where you can stream a movie or show](https://www.justwatch.com/)
+  * [rekordbox - cloud-connected professional dj platform](https://rekordbox.com/en/)
 
 ## goods
   * [neem chewing sticks](https://neemtreefarms.com/cart/)
