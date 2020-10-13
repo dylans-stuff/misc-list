@@ -3,7 +3,7 @@
 ## ｃｏｎｔｅｎｔｓ
   - [local](#local)
   - [cleaning](#cleaning)
-  - [permaculture](#permaculture)
+  - [farming](#farming)
   - [homebrewing](#recipes-homebrewing)
   - [engineering](#engineering)
   - [media](#media)
@@ -21,7 +21,7 @@
 ## cleaning
   * [carpet shampoo cleaning](https://www.youtube.com/watch?v=FPOyAY6aNwY&feature=youtu.be)
 
-## permaculture
+## farming
   * [companion planting guide](https://media.smilinggardener.com/files/images/articles/vegetables/companion-planting-chart.pdf)
   * [growing calendar](https://www.burpee.com/growingcalendar)
   * [soil testing](http://ag.umass.edu/services/soil-plant-nutrient-testing-laboratory)
@@ -33,6 +33,7 @@
   * [co2 list](http://www.co2list.org/files/carbon.htm#RANGE!A175)
   * [terra0](https://www.terra0.org/)
   * [the global calculator](http://tool.globalcalculator.org/globcalc.html?levers=22rfoe2e13be1111c2c2c1n31hfjdcef222hp233f211111fn2211111111/dashboard/en)
+  * [land watch](https://www.landwatch.com/?p=/home&from=desktop)
 
 ## recipes-homebrewing
   * [jack keller](http://winemaking.jackkeller.net/)
