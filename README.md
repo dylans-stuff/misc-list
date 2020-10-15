@@ -73,6 +73,7 @@
   * [the 110 techniques for public speaking](https://www.ted.com/talks/david_jp_phillips_the_110_techniques_of_communication_and_public_speaking)
   * [JustWatch - look up where you can stream a movie or show](https://www.justwatch.com/)
   * [rekordbox - cloud-connected professional dj platform](https://rekordbox.com/en/)
+  * [boil the frog](http://boilthefrog.playlistmachinery.com/)
 
 ## goods
   * [neem chewing sticks](https://neemtreefarms.com/cart/)
