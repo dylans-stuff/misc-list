@@ -55,6 +55,7 @@
   * [security planner](https://securityplanner.org/#/)
   * [pocket synthesizer](https://boingboing.net/2018/03/02/teenage-engineering-introduces.html)
   * [markov chain text generator](http://projects.haykranen.nl/markov/demo/)
+  * [energy literacy](http://energyliteracy.com/)
   
 ## media
   * [mixcloud](https://www.mixcloud.com/)
