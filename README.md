@@ -77,8 +77,6 @@
   * [boil the frog](http://boilthefrog.playlistmachinery.com/)
 
 ## goods
-  * [neem chewing sticks](https://neemtreefarms.com/cart/)
-  * [merrell gridway shoes](https://www.merrell.com/US/en/blog?url=%2F/merrell_us/gridway/)
   * [biblio](https://www.biblio.com/) (books)
   * [wild rose](https://www.wildroseherbs.com/)
   * [alchemy goods](https://www.alchemygoods.com/)
@@ -98,7 +96,7 @@
   * [field & forest mushroom spawn](https://www.fieldforest.net/Oyster/products/71/)
   * [goodfair](https://goodfair.com)
   * [brush with bamboo](https://www.brushwithbamboo.com/shop/bamboo-toothbrush-adult/)
-  * [earth & friends reusable lids](https://earthandfriends.co/products/reusablelids)
+  * [comprenew](https://www.merrell.com/US/en/blog?url=%2F/merrell_us/gridway/)
 
 ## games
   * [increpare](http://www.increpare.com/)
