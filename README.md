@@ -97,6 +97,7 @@
   * [goodfair](https://goodfair.com)
   * [brush with bamboo](https://www.brushwithbamboo.com/shop/bamboo-toothbrush-adult/)
   * [comprenew](https://www.merrell.com/US/en/blog?url=%2F/merrell_us/gridway/)
+  * [backmarket](https://www.backmarket.com/)
 
 ## games
   * [increpare](http://www.increpare.com/)
